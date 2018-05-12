@@ -1,6 +1,6 @@
 package com.fc.coll;
 
-public class Test {
+public class ArrayListTest {
 
 	public static void main(String[] args) {
 		List<String> list = new ArrayList<>();
