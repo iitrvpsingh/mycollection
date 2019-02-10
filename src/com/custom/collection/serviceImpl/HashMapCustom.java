@@ -1,4 +1,4 @@
-package com.fc.coll;
+package com.custom.collection.serviceImpl;
 
 public class HashMapCustom<K, V> {
 	private Entry<K, V>[] table;

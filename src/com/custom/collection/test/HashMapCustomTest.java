@@ -1,4 +1,6 @@
-package com.fc.coll;
+package com.custom.collection.test;
+
+import com.custom.collection.serviceImpl.HashMapCustom;
 
 class Employee {
 	private String id;

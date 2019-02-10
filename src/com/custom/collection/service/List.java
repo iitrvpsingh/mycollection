@@ -1,4 +1,4 @@
-package com.fc.coll;
+package com.custom.collection.service;
 
 public interface List <E> {
 	

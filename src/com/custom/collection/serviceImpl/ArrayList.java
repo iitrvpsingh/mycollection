@@ -1,6 +1,8 @@
-package com.fc.coll;
+package com.custom.collection.serviceImpl;
 
 import java.util.Arrays;
+
+import com.custom.collection.service.List;
 
 public class ArrayList<E> implements List<E> {
 

@@ -1,4 +1,7 @@
-package com.fc.coll;
+package com.custom.collection.test;
+
+import com.custom.collection.service.List;
+import com.custom.collection.serviceImpl.ArrayList;
 
 public class ArrayListTest {
 
